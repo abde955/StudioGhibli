@@ -1,0 +1,95 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "nombre": "Castle In The Sky",
+      "director": "Tarantino",
+      "clasificacion": "Acción",
+      "img": "./cartelera/castleinthesky.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Grave Of The Fireflies",
+      "director": "Zack Snyder",
+      "clasificacion": "Acción",
+      "img": "./cartelera/graveofthefireflies.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Howl Castle",
+      "director": "Jonathan Demme",
+      "clasificacion": "Drama",
+      "img": "./cartelera/howlcastle.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Kiki's Delivery Service",
+      "director": "Robert Zemeckis",
+      "clasificacion": "Comedia",
+      "img": "./cartelera/kikis-delivery-service.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "My Neighbor Totoro",
+      "director": "Luis Buñuel",
+      "clasificacion": "Documental",
+      "img": "./cartelera/myneighbortotoro.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Nausicaä",
+      "director": "",
+      "clasificacion": "",
+      "img": "./cartelera/nausicaä.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Ocean Waves",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama",
+      "img": "./cartelera/oceanwaves.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Ponyo",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama",
+      "img": "./cartelera/ponyo.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Poppy Hill",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama",
+      "img": "./cartelera/poppyhill.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Porco Rosso",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama",
+      "img": "./cartelera/porco-rosso.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Princess Kaguya",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama",
+      "img": "./cartelera/princesskaguya.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Princess Mononoke",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama",
+      "img": "./cartelera/princessmononoke.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Spirited Away",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama",
+      "img": "./cartelera/spiritedaway.jpg"
+    }
+  ]
+}
