@@ -3,92 +3,105 @@
     {
       "id": 1,
       "nombre": "Castle In The Sky",
-      "director": "Tarantino",
-      "clasificacion": "Acción",
+      "original_name": "Tenkū no shiro Laputa",
+      "clasificacion": "Aventura, fantasía, drama, ciencia ficción",
+      "año": "(1986)",
       "img": "./cartelera/castleinthesky.jpg"
     },
     {
       "id": 2,
       "nombre": "Grave Of The Fireflies",
-      "director": "Zack Snyder",
-      "clasificacion": "Acción",
+      "original_name": "Hotaru no Haka",
+      "clasificacion": "Drama, hisórica, bélica",
+      "año": "(1988)",
       "img": "./cartelera/graveofthefireflies.jpg"
     },
     {
       "id": 3,
       "nombre": "Howl Castle",
-      "director": "Jonathan Demme",
-      "clasificacion": "Drama",
+      "original_name": "Howl no Ugoku Shiro",
+      "clasificacion": "Drama, aventura, fantasía",
+      "año": "(2004)",
       "img": "./cartelera/howlcastle.jpg"
     },
     {
       "id": 4,
       "nombre": "Kiki's Delivery Service",
-      "director": "Robert Zemeckis",
-      "clasificacion": "Comedia",
+      "original_name": "Majo no Takkyūbin",
+      "clasificacion": "Aventura, fantasía, drama",
+      "año": "1989",
       "img": "./cartelera/kikis-delivery-service.jpg"
     },
     {
       "id": 5,
       "nombre": "My Neighbor Totoro",
-      "director": "Luis Buñuel",
-      "clasificacion": "Documental",
+      "original_name": "Tonari no Totoro",
+      "clasificacion": "Aventura, comedia, sobrenatural",
+      "año":"(1988)",
       "img": "./cartelera/myneighbortotoro.jpg"
     },
     {
       "id": 6,
       "nombre": "Nausicaä",
-      "director": "",
-      "clasificacion": "",
+      "original_name": "Tani no Naushika",
+      "clasificacion": "Aventura, fantasía",
+      "año": "(1984)",
       "img": "./cartelera/nausicaä.jpg"
     },
     {
       "id": 7,
       "nombre": "Ocean Waves",
-      "director": "M. Night Shyamalan",
-      "clasificacion": "Drama",
+      "original_name": "Umi ga Kikoeru",
+      "clasificacion": "Drama, romance",
+      "año": "(1993)",
       "img": "./cartelera/oceanwaves.jpg"
     },
     {
       "id": 8,
       "nombre": "Ponyo",
-      "director": "M. Night Shyamalan",
-      "clasificacion": "Drama",
+      "original_name": "Gake no Ue no Ponyo",
+      "clasificacion": "Aventura, comedia",
+      "año": "(2008)",
       "img": "./cartelera/ponyo.jpg"
     },
     {
       "id": 9,
       "nombre": "Poppy Hill",
-      "director": "M. Night Shyamalan",
+      "original_name": "Hotaru No Haka",
       "clasificacion": "Drama",
+      "año": "(1988)",
       "img": "./cartelera/poppyhill.jpg"
     },
     {
       "id": 10,
       "nombre": "Porco Rosso",
-      "director": "M. Night Shyamalan",
-      "clasificacion": "Drama",
+      "original_name": "Kurenai no Buta",
+      "clasificacion": "Aventura, comedia",
+      "año": "(1992)",
       "img": "./cartelera/porco-rosso.jpg"
     },
     {
       "id": 11,
       "nombre": "Princess Kaguya",
-      "director": "M. Night Shyamalan",
-      "clasificacion": "Drama",
+      "original_name": "Kaguya no Monogatari",
+      "clasificacion": "Animación, aventura, drama, familia, fantasía",
+      "año": "(2013)",
       "img": "./cartelera/princesskaguya.jpg"
     },
     {
       "id": 12,
       "nombre": "Princess Mononoke",
-      "director": "M. Night Shyamalan",
-      "clasificacion": "Drama",
+      "original_name": "Mononoke Hime",
+      "clasificacion": "Aventura, drama, fantasía",
+      "año":"(1997)",
       "img": "./cartelera/princessmononoke.jpg"
     },
     {
       "id": 8,
       "nombre": "Spirited Away",
-      "director": "M. Night Shyamalan",
-      "clasificacion": "Drama",
+      "original_name": "Chihiro no Kamikakushi",
+      "clasificacion": "Aventura, drama, fantasía, sobrenatural",
+      "año": "(2001)",
       "img": "./cartelera/spiritedaway.jpg"
     }
   ]
